@@ -1,0 +1,4 @@
+<map id="robotoc::SwitchingTimeCostFunctionComponentBase" name="robotoc::SwitchingTimeCostFunctionComponentBase">
+<area shape="rect" id="node1" title="Base class of components of the cost function on the switching time." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_periodic_switching_time_cost.html" title="Cost on the deviation from the periodic reference switching time." alt="" coords="10,95,185,136"/>
+</map>

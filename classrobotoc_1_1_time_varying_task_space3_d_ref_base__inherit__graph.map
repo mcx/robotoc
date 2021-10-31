@@ -1,0 +1,5 @@
+<map id="robotoc::TimeVaryingTaskSpace3DRefBase" name="robotoc::TimeVaryingTaskSpace3DRefBase">
+<area shape="rect" id="node1" title="Base class of time&#45;varying reference of task space position." alt="" coords="130,5,302,47"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_periodic_foot_track_ref.html" title="Periodic reference of the foot position." alt="" coords="5,95,203,121"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_periodic_foot_track_ref2.html" title="Periodic reference of the foot position." alt="" coords="227,95,431,121"/>
+</map>

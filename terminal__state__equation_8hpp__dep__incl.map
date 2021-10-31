@@ -1,0 +1,20 @@
+<map id="/github/workspace/include/robotoc/ocp/terminal_state_equation.hpp" name="/github/workspace/include/robotoc/ocp/terminal_state_equation.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="743,5,923,61"/>
+<area shape="rect" id="node2" href="$terminal__ocp_8hpp.html" title=" " alt="" coords="523,117,719,158"/>
+<area shape="rect" id="node18" href="$terminal__state__equation_8hxx.html" title=" " alt="" coords="743,109,923,165"/>
+<area shape="rect" id="node3" href="$ocp_8hpp.html" title=" " alt="" coords="327,221,500,262"/>
+<area shape="rect" id="node16" href="$terminal__ocp_8hxx.html" title=" " alt="" coords="524,221,719,262"/>
+<area shape="rect" id="node17" href="$unconstr__ocp_8hpp.html" title=" " alt="" coords="743,213,921,269"/>
+<area shape="rect" id="node4" href="$line__search_8hpp.html" title=" " alt="" coords="203,317,376,373"/>
+<area shape="rect" id="node5" href="$ocp__solver_8hpp.html" title=" " alt="" coords="229,429,427,470"/>
+<area shape="rect" id="node10" href="$unconstr__line__search_8hpp.html" title=" " alt="" coords="671,317,865,373"/>
+<area shape="rect" id="node13" href="$direct__multiple__shooting_8hpp.html" title=" " alt="" coords="451,317,634,373"/>
+<area shape="rect" id="node15" href="$riccati__recursion_8hpp.html" title=" " alt="" coords="5,317,179,373"/>
+<area shape="rect" id="node6" href="$mpc__quadrupedal__trotting_8hpp.html" title=" " alt="" coords="329,525,533,581"/>
+<area shape="rect" id="node7" href="$mpc__quadrupedal__walking_8hpp.html" title=" " alt="" coords="101,525,305,581"/>
+<area shape="rect" id="node8" href="$logger_8hpp.html" title=" " alt="" coords="659,533,832,574"/>
+<area shape="rect" id="node9" href="$ocp__benchmarker_8hpp.html" title=" " alt="" coords="631,629,859,671"/>
+<area shape="rect" id="node11" href="$unconstr__ocp__solver_8hpp.html" title=" " alt="" coords="856,421,1029,477"/>
+<area shape="rect" id="node12" href="$unconstr__parnmpc__solver_8hpp.html" title=" " alt="" coords="659,421,832,477"/>
+<area shape="rect" id="node14" href="$direct__multiple__shooting_8hxx.html" title=" " alt="" coords="451,421,634,477"/>
+</map>

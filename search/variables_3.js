@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['data_0',['data',['../classrobotoc_1_1_o_c_p.html#afcf8bcb52c587d8297ba23780d14daf5',1,'robotoc::OCP::data()'],['../classrobotoc_1_1_unconstr_o_c_p.html#af3999d304766c0528c011bb6f07cd105',1,'robotoc::UnconstrOCP::data()'],['../classrobotoc_1_1_unconstr_par_n_m_p_c.html#a0d2b490633dcced73b055ae0cadae06d',1,'robotoc::UnconstrParNMPC::data()'],['../classrobotoc_1_1hybrid__container.html#a935adc19cb567cc22324ed0d7f299b61',1,'robotoc::hybrid_container::data()']]],
+  ['ddual_1',['ddual',['../classrobotoc_1_1_constraint_component_data.html#a143cea116b9c8b5bf8966dcfcd5ec21d',1,'robotoc::ConstraintComponentData']]],
+  ['didda_2',['dIDda',['../classrobotoc_1_1_contact_dynamics_data.html#ae814f1f4d46c55ffd60a32e7da928bef',1,'robotoc::ContactDynamicsData']]],
+  ['diff_5f3d_3',['diff_3d',['../structrobotoc_1_1_cost_function_data.html#affcbec8adbd6711a40339e58d30c19d6',1,'robotoc::CostFunctionData']]],
+  ['diff_5f6d_4',['diff_6d',['../structrobotoc_1_1_cost_function_data.html#a39cd2f652f67222c3ef05f456593e329',1,'robotoc::CostFunctionData']]],
+  ['diff_5fse3_5',['diff_SE3',['../structrobotoc_1_1_cost_function_data.html#a518e354ecff1a3c859b4168c7a68ba2a',1,'robotoc::CostFunctionData']]],
+  ['dimdddv_6',['dImDddv',['../classrobotoc_1_1_impulse_dynamics_data.html#a003c00123f51ea2bf2ca07f03dd049cf',1,'robotoc::ImpulseDynamicsData']]],
+  ['dlmdgmm_7',['dlmdgmm',['../classrobotoc_1_1_impulse_split_direction.html#a59233570c0decfd05396ee85f7af359d',1,'robotoc::ImpulseSplitDirection::dlmdgmm()'],['../classrobotoc_1_1_split_direction.html#aad8560e99a351fd443cd1c3942b3cd82',1,'robotoc::SplitDirection::dlmdgmm()']]],
+  ['dnu_5fpassive_8',['dnu_passive',['../classrobotoc_1_1_split_direction.html#a4a4a2c8220a0202b02cbe53ff2f82eee',1,'robotoc::SplitDirection']]],
+  ['dslack_9',['dslack',['../classrobotoc_1_1_constraint_component_data.html#a96e7b2a9220f243a345855d00a12dc6a',1,'robotoc::ConstraintComponentData']]],
+  ['dtm_10',['DtM',['../classrobotoc_1_1_split_constrained_riccati_factorization.html#a827ac07f3e3c86992b53cd0f633bfff4',1,'robotoc::SplitConstrainedRiccatiFactorization']]],
+  ['dts_11',['dts',['../classrobotoc_1_1_impulse_split_direction.html#ab9a3eaf32fd9e6a00319a6b04b411a88',1,'robotoc::ImpulseSplitDirection::dts()'],['../classrobotoc_1_1_split_direction.html#a22b909cc48d346494eabc31d7be0660b',1,'robotoc::SplitDirection::dts()']]],
+  ['dts0_12',['dts0',['../classrobotoc_1_1_s_t_o_policy.html#a5534e4b08505d81456090c4d1e57fea6',1,'robotoc::STOPolicy']]],
+  ['dtsdx_13',['dtsdx',['../classrobotoc_1_1_s_t_o_policy.html#a62f4ece389f16ef095c57aaee78927db',1,'robotoc::STOPolicy']]],
+  ['du_14',['du',['../classrobotoc_1_1_split_direction.html#a382bebf5b66a9461056e123aa10caed4',1,'robotoc::SplitDirection']]],
+  ['dual_15',['dual',['../classrobotoc_1_1_constraint_component_data.html#af216f582340d6e06cf4c91a9e9a31cee',1,'robotoc::ConstraintComponentData']]],
+  ['dv_16',['dv',['../classrobotoc_1_1_impulse_split_solution.html#a58e0e505efb0699a1787d5e18252553f',1,'robotoc::ImpulseSplitSolution']]],
+  ['dx_17',['dx',['../classrobotoc_1_1_impulse_split_direction.html#ab591d5e34ee4bb1fc2e6f59be3c4502a',1,'robotoc::ImpulseSplitDirection::dx()'],['../classrobotoc_1_1_split_direction.html#a03b64d1f4f7d16d15c5e5dd355b43f29',1,'robotoc::SplitDirection::dx()']]]
+];

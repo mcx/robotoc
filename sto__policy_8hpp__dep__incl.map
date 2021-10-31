@@ -1,0 +1,11 @@
+<map id="/github/workspace/include/robotoc/riccati/sto_policy.hpp" name="/github/workspace/include/robotoc/riccati/sto_policy.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="41,5,235,47"/>
+<area shape="rect" id="node2" href="$riccati__factorizer_8hpp.html" title=" " alt="" coords="51,95,225,151"/>
+<area shape="rect" id="node3" href="$riccati__factorizer_8hxx.html" title=" " alt="" coords="51,199,225,255"/>
+<area shape="rect" id="node4" href="$riccati__recursion_8hpp.html" title=" " alt="" coords="249,199,422,255"/>
+<area shape="rect" id="node5" href="$ocp__solver_8hpp.html" title=" " alt="" coords="236,303,435,344"/>
+<area shape="rect" id="node6" href="$mpc__quadrupedal__trotting_8hpp.html" title=" " alt="" coords="5,392,209,448"/>
+<area shape="rect" id="node7" href="$mpc__quadrupedal__walking_8hpp.html" title=" " alt="" coords="233,392,437,448"/>
+<area shape="rect" id="node8" href="$logger_8hpp.html" title=" " alt="" coords="462,399,635,441"/>
+<area shape="rect" id="node9" href="$ocp__benchmarker_8hpp.html" title=" " alt="" coords="435,496,663,537"/>
+</map>

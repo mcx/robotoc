@@ -1,0 +1,12 @@
+<map id="/github/workspace/include/robotoc/riccati/split_constrained_riccati_factorization.hxx" name="/github/workspace/include/robotoc/riccati/split_constrained_riccati_factorization.hxx">
+<area shape="rect" id="node1" title=" " alt="" coords="117,5,354,61"/>
+<area shape="rect" id="node2" href="$split__constrained__riccati__factorization_8hpp.html" title=" " alt="" coords="116,109,355,165"/>
+<area shape="rect" id="node3" href="$riccati__factorizer_8hpp.html" title=" " alt="" coords="87,213,261,269"/>
+<area shape="rect" id="node5" href="$riccati__recursion_8hpp.html" title=" " alt="" coords="249,317,422,373"/>
+<area shape="rect" id="node4" href="$riccati__factorizer_8hxx.html" title=" " alt="" coords="51,317,225,373"/>
+<area shape="rect" id="node6" href="$ocp__solver_8hpp.html" title=" " alt="" coords="236,421,435,463"/>
+<area shape="rect" id="node7" href="$mpc__quadrupedal__trotting_8hpp.html" title=" " alt="" coords="5,511,209,567"/>
+<area shape="rect" id="node8" href="$mpc__quadrupedal__walking_8hpp.html" title=" " alt="" coords="233,511,437,567"/>
+<area shape="rect" id="node9" href="$logger_8hpp.html" title=" " alt="" coords="462,518,635,559"/>
+<area shape="rect" id="node10" href="$ocp__benchmarker_8hpp.html" title=" " alt="" coords="435,615,663,656"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="/github/workspace/include/robotoc/ocp/state_equation.hpp" name="/github/workspace/include/robotoc/ocp/state_equation.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="839,5,1045,47"/>
+<area shape="rect" id="node2" href="$split__ocp_8hpp.html" title=" " alt="" coords="640,95,815,136"/>
+<area shape="rect" id="node17" href="$state__equation_8hxx.html" title=" " alt="" coords="839,95,1045,136"/>
+<area shape="rect" id="node3" href="$ocp_8hpp.html" title=" " alt="" coords="443,184,617,225"/>
+<area shape="rect" id="node16" href="$split__ocp_8hxx.html" title=" " alt="" coords="641,184,814,225"/>
+<area shape="rect" id="node4" href="$line__search_8hpp.html" title=" " alt="" coords="246,273,419,329"/>
+<area shape="rect" id="node5" href="$ocp__solver_8hpp.html" title=" " alt="" coords="236,385,435,426"/>
+<area shape="rect" id="node10" href="$unconstr__line__search_8hpp.html" title=" " alt="" coords="641,273,835,329"/>
+<area shape="rect" id="node13" href="$direct__multiple__shooting_8hpp.html" title=" " alt="" coords="859,273,1041,329"/>
+<area shape="rect" id="node15" href="$riccati__recursion_8hpp.html" title=" " alt="" coords="443,273,617,329"/>
+<area shape="rect" id="node6" href="$mpc__quadrupedal__trotting_8hpp.html" title=" " alt="" coords="233,481,437,537"/>
+<area shape="rect" id="node7" href="$mpc__quadrupedal__walking_8hpp.html" title=" " alt="" coords="5,481,209,537"/>
+<area shape="rect" id="node8" href="$logger_8hpp.html" title=" " alt="" coords="462,489,635,530"/>
+<area shape="rect" id="node9" href="$ocp__benchmarker_8hpp.html" title=" " alt="" coords="435,585,663,627"/>
+<area shape="rect" id="node11" href="$unconstr__ocp__solver_8hpp.html" title=" " alt="" coords="461,377,634,433"/>
+<area shape="rect" id="node12" href="$unconstr__parnmpc__solver_8hpp.html" title=" " alt="" coords="658,377,831,433"/>
+<area shape="rect" id="node14" href="$direct__multiple__shooting_8hxx.html" title=" " alt="" coords="859,377,1041,433"/>
+</map>

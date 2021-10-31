@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrobotoc_1_1_cost_function_component_base.html" title="Base class of components of cost function." alt="" coords="5,208,249,235"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_co_m_cost.html" title="Cost on the position of the center of mass." alt="" coords="344,5,469,32"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_configuration_space_cost.html" title="Configuration space cost." alt="" coords="301,56,512,83"/>
+<area shape="rect" id="node4" href="$classrobotoc_1_1_local_contact_force_cost.html" title="Cost on the contact forces expressed in the local frames." alt="" coords="303,107,511,133"/>
+<area shape="rect" id="node5" href="$classrobotoc_1_1_task_space3_d_cost.html" title="Cost on the task space position." alt="" coords="317,157,497,184"/>
+<area shape="rect" id="node6" href="$classrobotoc_1_1_task_space6_d_cost.html" title="Cost on the task space placement (SE(3))." alt="" coords="317,208,497,235"/>
+<area shape="rect" id="node7" href="$classrobotoc_1_1_time_varying_co_m_cost.html" title="Cost on the time&#45;varying position of the center of mass." alt="" coords="308,259,505,285"/>
+<area shape="rect" id="node8" href="$classrobotoc_1_1_time_varying_configuration_space_cost.html" title="Cost on the time&#45;varying configuration." alt="" coords="297,310,516,351"/>
+<area shape="rect" id="node9" href="$classrobotoc_1_1_time_varying_task_space3_d_cost.html" title="Cost on the time&#45;varying task space position." alt="" coords="321,375,493,417"/>
+<area shape="rect" id="node10" href="$classrobotoc_1_1_time_varying_task_space6_d_cost.html" title="Cost on the time&#45;varying task space placement." alt="" coords="321,441,493,482"/>
+</map>

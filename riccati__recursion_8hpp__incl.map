@@ -1,0 +1,102 @@
+<map id="/github/workspace/include/robotoc/riccati/riccati_recursion.hpp" name="/github/workspace/include/robotoc/riccati/riccati_recursion.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1836,5,2009,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1964,1069,2049,1095"/>
+<area shape="rect" id="node3" href="$robot_8hpp.html" title=" " alt="" coords="3171,793,3325,820"/>
+<area shape="rect" id="node25" href="$aligned__vector_8hpp.html" title=" " alt="" coords="7339,883,7477,924"/>
+<area shape="rect" id="node35" href="$hybrid__container_8hpp.html" title=" " alt="" coords="3249,578,3391,619"/>
+<area shape="rect" id="node36" href="$split__riccati__factorization_8hpp.html" title=" " alt="" coords="907,578,1072,619"/>
+<area shape="rect" id="node37" href="$split__constrained__riccati__factorization_8hpp.html" title=" " alt="" coords="6469,675,6608,731"/>
+<area shape="rect" id="node39" href="$lqr__policy_8hpp.html" title=" " alt="" coords="1096,578,1219,619"/>
+<area shape="rect" id="node40" href="$riccati__factorizer_8hpp.html" title=" " alt="" coords="1590,370,1733,411"/>
+<area shape="rect" id="node64" href="$ocp_8hpp.html" title=" " alt="" coords="4888,109,5027,136"/>
+<area shape="rect" id="node97" href="$solution_8hpp.html" title=" " alt="" coords="4464,377,4627,404"/>
+<area shape="rect" id="node98" href="$direction_8hpp.html" title=" " alt="" coords="4955,481,5122,508"/>
+<area shape="rect" id="node99" href="$kkt__matrix_8hpp.html" title=" " alt="" coords="2600,481,2779,508"/>
+<area shape="rect" id="node100" href="$kkt__residual_8hpp.html" title=" " alt="" coords="3550,481,3738,508"/>
+<area shape="rect" id="node4" title=" " alt="" coords="3294,890,3349,917"/>
+<area shape="rect" id="node5" title=" " alt="" coords="7228,1069,7287,1095"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3373,890,3425,917"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5115,1069,5187,1095"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2515,972,2651,1013"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2675,972,2811,1013"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2886,972,3021,1013"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3147,979,3323,1006"/>
+<area shape="rect" id="node12" href="$se3_8hpp.html" title=" " alt="" coords="2124,890,2271,917"/>
+<area shape="rect" id="node14" href="$point__contact_8hpp.html" title=" " alt="" coords="3037,883,3168,924"/>
+<area shape="rect" id="node21" href="$contact__status_8hpp.html" title=" " alt="" coords="4389,972,4534,1013"/>
+<area shape="rect" id="node23" href="$impulse__status_8hpp.html" title=" " alt="" coords="5341,883,5488,924"/>
+<area shape="rect" id="node27" href="$robot_8hxx.html" title=" " alt="" coords="3906,979,4059,1006"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2120,979,2288,1006"/>
+<area shape="rect" id="node15" href="$point__contact_8hxx.html" title=" " alt="" coords="3752,972,3883,1013"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3542,1061,3693,1103"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2997,1061,3131,1103"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3155,1061,3335,1103"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3360,1061,3517,1103"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4985,1151,5050,1177"/>
+<area shape="rect" id="node22" href="$contact__status_8hxx.html" title=" " alt="" coords="4945,1061,5090,1103"/>
+<area shape="rect" id="node24" href="$impulse__status_8hxx.html" title=" " alt="" coords="5341,972,5488,1013"/>
+<area shape="rect" id="node26" title=" " alt="" coords="7321,979,7437,1006"/>
+<area shape="rect" id="node28" title=" " alt="" coords="3717,1069,3891,1095"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3915,1061,4050,1103"/>
+<area shape="rect" id="node30" title=" " alt="" coords="4074,1061,4209,1103"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4233,1061,4375,1103"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4399,1061,4534,1103"/>
+<area shape="rect" id="node33" title=" " alt="" coords="4558,1061,4693,1103"/>
+<area shape="rect" id="node34" title=" " alt="" coords="4717,1061,4869,1103"/>
+<area shape="rect" id="node38" href="$split__constrained__riccati__factorization_8hxx.html" title=" " alt="" coords="6393,779,6532,835"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1070,481,1146,508"/>
+<area shape="rect" id="node42" href="$split__kkt__matrix_8hpp.html" title=" " alt="" coords="2561,578,2703,619"/>
+<area shape="rect" id="node44" href="$split__kkt__residual_8hpp.html" title=" " alt="" coords="3567,578,3710,619"/>
+<area shape="rect" id="node46" title=" " alt="" coords="4803,793,4861,820"/>
+<area shape="rect" id="node47" href="$split__direction_8hpp.html" title=" " alt="" coords="3893,689,4091,716"/>
+<area shape="rect" id="node49" href="$impulse__split__kkt__matrix_8hpp.html" title=" " alt="" coords="5725,578,5888,619"/>
+<area shape="rect" id="node51" href="$impulse__split__kkt__residual_8hpp.html" title=" " alt="" coords="5177,578,5340,619"/>
+<area shape="rect" id="node53" href="$impulse__split__direction_8hpp.html" title=" " alt="" coords="6396,578,6559,619"/>
+<area shape="rect" id="node55" href="$switching__constraint__jacobian_8hpp.html" title=" " alt="" coords="1677,578,1843,619"/>
+<area shape="rect" id="node57" href="$switching__constraint__residual_8hpp.html" title=" " alt="" coords="2069,578,2232,619"/>
+<area shape="rect" id="node59" href="$sto__policy_8hpp.html" title=" " alt="" coords="1665,682,1791,723"/>
+<area shape="rect" id="node60" href="$backward__riccati__recursion__factorizer_8hpp.html" title=" " alt="" coords="1373,474,1581,515"/>
+<area shape="rect" id="node62" title=" " alt="" coords="5395,689,5448,716"/>
+<area shape="rect" id="node63" href="$riccati__factorizer_8hxx.html" title=" " alt="" coords="801,474,943,515"/>
+<area shape="rect" id="node43" href="$split__kkt__matrix_8hxx.html" title=" " alt="" coords="1345,682,1487,723"/>
+<area shape="rect" id="node45" href="$split__kkt__residual_8hxx.html" title=" " alt="" coords="4166,682,4309,723"/>
+<area shape="rect" id="node48" href="$split__direction_8hxx.html" title=" " alt="" coords="3945,793,4141,820"/>
+<area shape="rect" id="node50" href="$impulse__split__kkt__matrix_8hxx.html" title=" " alt="" coords="5725,682,5888,723"/>
+<area shape="rect" id="node52" href="$impulse__split__kkt__residual_8hxx.html" title=" " alt="" coords="5005,682,5168,723"/>
+<area shape="rect" id="node54" href="$impulse__split__direction_8hxx.html" title=" " alt="" coords="7061,682,7224,723"/>
+<area shape="rect" id="node56" href="$switching__constraint__jacobian_8hxx.html" title=" " alt="" coords="821,682,984,723"/>
+<area shape="rect" id="node58" href="$switching__constraint__residual_8hxx.html" title=" " alt="" coords="1109,682,1269,723"/>
+<area shape="rect" id="node61" href="$backward__riccati__recursion__factorizer_8hxx.html" title=" " alt="" coords="1446,578,1653,619"/>
+<area shape="rect" id="node65" title=" " alt="" coords="7437,793,7505,820"/>
+<area shape="rect" id="node66" href="$split__ocp_8hpp.html" title=" " alt="" coords="2224,191,2395,218"/>
+<area shape="rect" id="node69" href="$cost__function_8hpp.html" title=" " alt="" coords="3936,281,4136,307"/>
+<area shape="rect" id="node74" href="$constraints_8hpp.html" title=" " alt="" coords="5372,273,5505,315"/>
+<area shape="rect" id="node84" href="$impulse__split__ocp_8hpp.html" title=" " alt="" coords="6284,184,6447,225"/>
+<area shape="rect" id="node88" href="$terminal__ocp_8hpp.html" title=" " alt="" coords="4103,184,4243,225"/>
+<area shape="rect" id="node91" href="$contact__sequence_8hpp.html" title=" " alt="" coords="6835,682,6986,723"/>
+<area shape="rect" id="node95" href="$hybrid__ocp__discretization_8hpp.html" title=" " alt="" coords="7552,578,7709,619"/>
+<area shape="rect" id="node67" href="$split__solution_8hpp.html" title=" " alt="" coords="4351,585,4545,612"/>
+<area shape="rect" id="node71" href="$cost__function__data_8hpp.html" title=" " alt="" coords="600,474,776,515"/>
+<area shape="rect" id="node78" href="$constraints__data_8hpp.html" title=" " alt="" coords="6207,370,6353,411"/>
+<area shape="rect" id="node80" href="$state__equation_8hpp.html" title=" " alt="" coords="2803,481,3005,508"/>
+<area shape="rect" id="node81" href="$contact__dynamics_8hpp.html" title=" " alt="" coords="1859,474,1997,515"/>
+<area shape="rect" id="node82" href="$switching__constraint_8hpp.html" title=" " alt="" coords="2072,474,2221,515"/>
+<area shape="rect" id="node83" href="$split__ocp_8hxx.html" title=" " alt="" coords="1413,281,1581,307"/>
+<area shape="rect" id="node68" href="$split__solution_8hxx.html" title=" " alt="" coords="4485,689,4677,716"/>
+<area shape="rect" id="node70" href="$cost__function__component__base_8hpp.html" title=" " alt="" coords="3808,370,3984,411"/>
+<area shape="rect" id="node72" href="$impulse__split__solution_8hpp.html" title=" " alt="" coords="6616,474,6779,515"/>
+<area shape="rect" id="node73" href="$cost__function_8hxx.html" title=" " alt="" coords="143,890,342,917"/>
+<area shape="rect" id="node75" href="$constraint__component__base_8hpp.html" title=" " alt="" coords="4219,467,4373,523"/>
+<area shape="rect" id="node76" href="$constraint__component__data_8hpp.html" title=" " alt="" coords="5496,571,5651,627"/>
+<area shape="rect" id="node77" href="$impulse__constraint__component__base_8hpp.html" title=" " alt="" coords="5439,363,5591,419"/>
+<area shape="rect" id="node79" href="$constraints_8hxx.html" title=" " alt="" coords="7979,883,8112,924"/>
+<area shape="rect" id="node85" href="$impulse__state__equation_8hpp.html" title=" " alt="" coords="5864,370,6027,411"/>
+<area shape="rect" id="node86" href="$impulse__dynamics_8hpp.html" title=" " alt="" coords="6479,370,6641,411"/>
+<area shape="rect" id="node87" href="$impulse__split__ocp_8hxx.html" title=" " alt="" coords="7360,273,7523,315"/>
+<area shape="rect" id="node89" href="$terminal__state__equation_8hpp.html" title=" " alt="" coords="3233,474,3373,515"/>
+<area shape="rect" id="node90" href="$terminal__ocp_8hxx.html" title=" " alt="" coords="6111,273,6251,315"/>
+<area shape="rect" id="node92" title=" " alt="" coords="7086,793,7143,820"/>
+<area shape="rect" id="node93" href="$discrete__event_8hpp.html" title=" " alt="" coords="6063,786,6217,827"/>
+<area shape="rect" id="node94" href="$contact__sequence_8hxx.html" title=" " alt="" coords="6911,786,7062,827"/>
+<area shape="rect" id="node96" href="$hybrid__ocp__discretization_8hxx.html" title=" " alt="" coords="7704,682,7859,723"/>
+</map>

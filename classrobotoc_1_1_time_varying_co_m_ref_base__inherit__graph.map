@@ -1,0 +1,5 @@
+<map id="robotoc::TimeVaryingCoMRefBase" name="robotoc::TimeVaryingCoMRefBase">
+<area shape="rect" id="node1" title="Base class of time&#45;varying reference of position of the center of mass." alt="" coords="74,5,294,32"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_periodic_co_m_ref.html" title="Periodic reference of the center of mass." alt="" coords="5,80,171,107"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_periodic_co_m_ref2.html" title="Periodic reference of the center of mass." alt="" coords="195,80,367,107"/>
+</map>
